@@ -1,12 +1,72 @@
-<!DOCTYPE html>
-<html lang="ro">
+<!DOCTYPE html><html lang="ro">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Telefoane Second-Hand</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #fff;
+      color: #000;
+    }
+    header {
+      padding: 2rem;
+      text-align: center;
+      border-bottom: 2px solid #000;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-top: 1rem;
+    }
+    nav a {
+      text-decoration: none;
+      color: #000;
+      font-weight: bold;
+      border: 1px solid #000;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      transition: background-color 0.3s;
+    }
+    nav a:hover {
+      background-color: #000;
+      color: #fff;
+    }
+    section {
+      padding: 2rem;
+      text-align: center;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      border-top: 1px solid #000;
+      font-size: 0.9rem;
+    }
+  </style>
 </head>
 <body>
-  <h1>Bine ai venit pe site-ul nostru de telefoane second-hand!</h1>
-  <p>Site-ul este în construcție.</p>
+  <header>
+    <h1>Telefoane Second-Hand</h1>
+    <p>Caută, compară și alege telefonul potrivit pentru tine.</p>
+    <nav>
+      <a href="#nou">Nou</a>
+      <a href="#folosit">Folosit</a>
+      <a href="#bun">Bun</a>
+    </nav>
+  </header>  <section id="nou">
+    <h2>Telefoane Noi</h2>
+    <p>Găsește cele mai bune oferte pentru telefoane noi de pe eMAG, OLX și alte surse.</p>
+  </section>  <section id="folosit">
+    <h2>Telefoane Folosite</h2>
+    <p>Compară prețurile la telefoane second-hand verificate și în stare bună.</p>
+  </section>  <section id="bun">
+    <h2>Stare Bună</h2>
+    <p>Modele în stare foarte bună, testate și gata de utilizare, la prețuri accesibile.</p>
+  </section>  <footer>
+    &copy; 2025 Telefoane Second-Hand. Toate drepturile rezervate.
+  </footer>
 </body>
 </html>
