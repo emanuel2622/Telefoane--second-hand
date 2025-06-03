@@ -1,0 +1,23 @@
+[
+  {
+    "titlu": "iPhone 11 64GB - Nou",
+    "stare": "Nou",
+    "pret": "1.999 RON",
+    "poza": "https://s13emagst.akamaized.net/products/34942/34941263/images/res_f9eac99834247c627b5e1cf09e6a5fa4.jpg",
+    "link": "https://www.emag.ro/telefon-iphone-11-nou"
+  },
+  {
+    "titlu": "Samsung Galaxy S21 - Excelent",
+    "stare": "Excelent",
+    "pret": "1.299 RON",
+    "poza": "https://s13emagst.akamaized.net/products/48487/48486646/images/res_3f8d2288d35526b3b9644b7ff5c4cda4.jpg",
+    "link": "https://www.olx.ro/d/oferta/samsung-galaxy-s21"
+  },
+  {
+    "titlu": "Xiaomi Redmi Note 10 - Bun",
+    "stare": "Bun",
+    "pret": "599 RON",
+    "poza": "https://s13emagst.akamaized.net/products/36263/36262784/images/res_5bc8f685304292e399ca4ef376c70563.jpg",
+    "link": "https://www.emag.ro/xiaomi-redmi-note"
+  }
+]
